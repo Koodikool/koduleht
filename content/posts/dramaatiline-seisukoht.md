@@ -24,3 +24,9 @@ Võimalikud lahendused
 =====================
 
 Kontakttundide marketplace = väiksemad klassid, õpetajatel vabad käed, õpilane valib oma huvi järgi, turg määrab hinna
+
+Võimalikud ametid
+=================
+
+E-residentide hulgas krüpto haridus
+Tagasi Kooli meeskonnas
