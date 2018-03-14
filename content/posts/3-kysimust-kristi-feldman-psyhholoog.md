@@ -1,5 +1,5 @@
 ---
-title: "3 Küsimust: Kristi Feldman Koolipsühholoog"
+title: "3 Küsimust: Kristi Feldman - Koolipsühholoog"
 date: 2018-03-14T16:00:50+01:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "3 Küsimust: Nelli Jung \"Vaikuseminutid\""
+title: "3 Küsimust: Nelli Jung - Vaikuseminutid"
 date: 2018-03-14T15:45:36+01:00
 draft: false
 ---
