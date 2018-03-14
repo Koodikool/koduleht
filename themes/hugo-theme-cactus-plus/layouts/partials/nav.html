@@ -3,7 +3,7 @@
 	{{ if not .IsHome }}
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
-	<a href='{{ .Site.BaseURL }}blog'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Blog{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}posts'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Postitused{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}meeskond'>{{ with .Site.Params.about }}{{ . }}{{ else }}Meeskond{{ end }}</a>
 
 	{{ range $key, $val := .Site.Params.Links }}
