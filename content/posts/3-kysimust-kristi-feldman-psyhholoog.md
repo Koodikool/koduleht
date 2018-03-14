@@ -4,7 +4,7 @@ date: 2018-03-14T16:00:50+01:00
 draft: false
 ---
 
-Vaadates huvitavat [DelfiTV saadet õpetajate vaimsest tervisest](http://tv.delfi.ee/saated/delfi-tv-erisaade-eesti-haridussusteemi-varjatud-saladus-igal-kolmandal-opetajal-voib-olla-vaimse-tervise-probleeme?id=81275565) jäi silma nii mõnigi asjalik seisukoht. Üks neist oli Kristi Feldman, kellelt kohe põnevusega küsima läksin. Ta on [Eesti Koolipsühholoogide Ühingu juhatuse liige](http://koolipsyhholoogid.ee/juhatus/liikmed/) ja [Kiili Gümnaasiumi tugispetsialist](https://kiilikool.edupage.org/text5/). 
+Vaadates huvitavat [DelfiTV saadet](http://tv.delfi.ee/saated/delfi-tv-erisaade-eesti-haridussusteemi-varjatud-saladus-igal-kolmandal-opetajal-voib-olla-vaimse-tervise-probleeme?id=81275565) õpetajate vaimsest tervisest jäi silma nii mõnigi arukas arvamus. Üks rääkijatest oli Kristi Feldman, kellelt kohe põnevusega pärima läksin. Ta on Eesti Koolipsühholoogide Ühingu [juhatuse liige](http://koolipsyhholoogid.ee/juhatus/liikmed/) ja Kiili Gümnaasiumi [tugispetsialist](https://kiilikool.edupage.org/text5/). 
 
 ### 1. Ütlesite DelfiTV saates, et koolides puuduvad vajalikud tugiteenused, kuid sellega tegeldakse, siiski ebaõnnestunult. Äkki oskate öelda mille taha see kinni jääb?
 
