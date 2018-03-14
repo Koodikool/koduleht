@@ -1,6 +1,7 @@
 ---
 title: "Koodikooli meeskond"
 date: 2018-03-14T17:52:14+01:00
+hidden: true
 ---
 
 Koodikooli algataja on [Krister Viirsaar](https://koodikool.ee/posts/koodikooli-kolmas-algus/) - isehakanud õpetajast IT spetsialist. Kirg asja vedamiseks on suur ja siht ei ole veel väga konkreetseks osutunud. Lähenemine on võrreldav startuppidega - Koodikool on probleemi otsimise faasis.
