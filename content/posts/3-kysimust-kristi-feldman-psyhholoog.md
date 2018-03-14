@@ -29,3 +29,5 @@ Siinkohal tulebki mängu tugispetsialist, kes aitab enda ettevalmistusest lähtu
 ---
 
 Lisaks leiab huvitavaid artikleid [Eesti Koolipsühholoogide Ühingu Facebooki lehelt](https://www.facebook.com/EestiKoolipsuhholoogideUhing).
+
+Autor: [Krister](http://krister.ee)
