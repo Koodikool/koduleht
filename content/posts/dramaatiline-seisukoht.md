@@ -17,6 +17,10 @@ Kui adekvaatne on tegelikult PISA?
 Millest on minu elus kasu olnud ja millest kahju?
 12 aastat kooli vs. 3 aastat ülikooli vs. 1 aasta päriselus. Kui palju aega on tegelikult vaja baasteadmiste omandamiseks?
 30 inimest ühes klassis, vanuse järgi. Nagu sõjaväes.
+8 erinevat tundi päevas? Mina suudan teha 2-3.
+Kontrolltööd? Kas õpilasi peab sundima või saab paremini?
+Mälu põhine õppimine. Mis on tegelikult tähtis?
+Õppimine on 21 sajandi oskus, koolid tapavad selle soovi ja oskuse.
 
 Õpetaja vabadus riigisüsteemis: https://virumaateataja.postimees.ee/768108/eva-samolberg-miks-ma-ei-ole-enam-opetaja
 
