@@ -6,7 +6,7 @@ draft: false
 
 Uurides erinevaid organisatsioone haridusmaastikul tegutsemas on Noored Kooli ja Tagasi Kooli saanud mu lemmikuteks. Viimane toob külalisõpetajaid koolidesse (oma ala spetsialist annab paar loengut) ja esimene tegeleb uute õpetajate koolitamisega. Minu üllatuseks Noored Kooli ei tegele ainult uute õpetajate meelitamisega vaid [artikleid](http://www.nooredkooli.ee/paevik) lugedes selgub, et neil on põnev metoodika ja arusaam kuidas õpetamine üldse toimuma peaks.
 
-Esimesena jäi silma Maria Kurisoo artikkel ["Kuidas Noored Kooli mõtestab õppijakeskset õpet"](http://www.nooredkooli.ee/paevik/kuidas-noored-kooli-motestab-oppijakeskset-opet/), mille idee on lasta õpilasel endal juhtida oma õppimist. Kui minu visioon on (mitte nii utoopiline) klassiruumideta kool, kus õpilane otseses mõttes otsustab ise mida õppida, siis Maria keskendub koheselt rakendatavatele võimalustele Eesti koolide kontekstis. Põnev lugemine. Mul oli aga mõni täiendav küsimus.
+Esimesena jäi silma Maria Kurisoo artikkel ["Kuidas Noored Kooli mõtestab õppijakeskset õpet"](http://www.nooredkooli.ee/paevik/kuidas-noored-kooli-motestab-oppijakeskset-opet/), mille idee on lasta õpilasel endal juhtida oma õppimist. Kui minu visioon on utoopiline (aga [tehtav](https://www.youtube.com/watch?v=oNLuw6DOkRM)) klassiruumideta kool, kus õpilane otseses mõttes otsustab ise mida õppida, siis Maria keskendub koheselt rakendatavatele võimalustele Eesti koolide kontekstis. Põnev lugemine. Mul oli aga mõni täiendav küsimus.
 
 ### 1. Kui õpetaja ei järgi artiklis välja toodud praktikaid, siis kas (teie kogemusele toetudes) on probleem informatsioonipuuduses, ülekoormuses või millesgis muus?
 
