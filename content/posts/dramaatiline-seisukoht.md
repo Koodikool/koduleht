@@ -24,11 +24,31 @@ Mälu põhine õppimine. Mis on tegelikult tähtis?
 
 Õpetaja vabadus riigisüsteemis: https://virumaateataja.postimees.ee/768108/eva-samolberg-miks-ma-ei-ole-enam-opetaja
 
+Kellega rääkida
+===============
+
+Õpilasettevõtete tegija
+Õpetajad
+Õpilased
+Vanemad
+NK õpetajad
+TK koolid
+Õppealajuhataja
+Direktor
+President
+Haridusminister
+Haridusministeeriumis töötajad
+Haridustehnoloogid
+Ülikoolidest pedagoogid
+FoxCademy
+
+
 Võimalikud lahendused
 =====================
 
 Kontakttundide marketplace = väiksemad klassid, õpetajatel vabad käed, õpilane valib oma huvi järgi, turg määrab hinna
 Vittra - https://www.youtube.com/watch?v=q5mpeEa_VZo
+Õpilaselt õpilasele marketplace
 
 Võimalikud ametid
 =================
