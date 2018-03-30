@@ -42,6 +42,13 @@ Haridustehnoloogid
 Ülikoolidest pedagoogid
 FoxCademy
 
+Avatud kool
+emili kool
+gaia kool
+tartu erakool
+
+Mariliis reps - minister
+Liina Kersna - hariduskorraldus
 
 Võimalikud lahendused
 =====================
