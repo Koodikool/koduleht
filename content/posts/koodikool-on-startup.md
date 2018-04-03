@@ -6,29 +6,36 @@ draft: true
 
 ### Misasi on startup
 
-Kõik on selle sõna kohta mingi kujutluspildi endale loonud. Tavainimestega suheldes on tihti selgunud, et "Startup" on suured IT firmad, kellel on lahedad kontorid, aga "mind see teema ei huvita". Mul on kohe väga kurb, kui keegi nii ütleb, sest startup minujaoks on mõtteviis.
+Kõik on selle sõna kohta mingi kujutluspildi endale loonud. Tavainimestega suheldes on tihti selgunud, et "Startup" on suured IT firmad, kellel on lahedad kontorid, aga "mind see teema ei huvita". Mul on kohe väga kurb, kui keegi nii ütleb, sest startup minujaoks on mõtteviis vägagi praktilise otstarbega meiesugustele väikeettevõtjatele.
 
-Kui traditsiooniliselt oli ettevõtte loomisel juba vaja viie nulliga kapitali, siis startupid on need, kes alustavad nulliga. Küsimus ei ole enam kuidas tuhandete klientideni jõuda vaid kuidas teha esimene müük ja sealt edasi kasvada kümne müügini. Siis sajani, tuhandeni, jne. Tavapärane ettevõtja näeb võimalust ja ehitab lahenduse. Kui tal joppab saab ta rikkaks ja me kõik imetleme teda. Kui õnn aga ei naerata läheb ta põhja ja me ei saagi teada, et tegelikult 90% või rohkem ettevõtteid kukuvad läbi. Ma olen ilmekas näide oma kümne läbikukkumisega.
+Kui traditsiooniliselt oli ettevõtte loomisel juba vaja viie nulliga kapitali, siis startupid on need, kes alustavad nulliga. Küsimus ei ole enam kuidas tuhandete klientideni jõuda vaid kuidas teha esimene müük ja sealt edasi kasvada kümne müügini. Siis sajani, tuhandeni, jne. Tavapärane ettevõtja näeb võimalust ja ehitab lahenduse. Kui tal joppab saab ta rikkaks ja me kõik imetleme teda. Kui õnn aga ei naerata läheb ta põhja ja me ei saagi teada, et tegelikult 90% või rohkem ettevõtteid kukuvad läbi. Startupid on aga need, kes ehitavad metoodika kasvamiseks katsetades tuhandeid ideid ja nüansse.
 
-Läbikukkumised on küll rasked, aga mitte ilma asjata. Ma olen õppinud mis ei tööta. Olen käinud nii palju radasid läbi ning julgenud siis endalt küsida "mis valesti läks?" Kuigi alati ei saagi vastust lõpuni artikuleerida saab raamatutest juurde lugedes siiski järeldusi teha. Nimelt kõige tähtsam samm, mida [olen alati tegemata jätnud](best-project-shutting-down) on idee valideerimine sihtgrupiga suheldes.
+Ma olen oma kümme startuppi vast ära proovinud. Mõni suurem, mõni väiksem. Iga korraga mida õppinud. Raamatutest lisaks lugedes jõudsin ma järeldusele, et on üks väga konkreetne tegevus, millest ma olen [alati hirmuga üle hüpanud](best-project-shutting-down): probleemi valideerimine.
 
-Ma ei ole võtnud seda aega, et välja uurida, kas mu idees seisnev probleem on üldse lahendamist väärt. See ei ole keeruline. Sul on vaja oma sihtgrupp üles otsida ja neilt küsida kuidas nad _praegu_ seda probleemi lahendavad (oma idee välja ütlemine saboteerib valideerimise võimaluse). Kuid see ei ole ka lihtne, sest (kuni sa neile oma ideed välja ei räägi) inimesed on siirad ja su idee tõenäoliselt ei pea vett.
+Ma ei ole võtnud seda aega, et välja uurida, kas mu idees seisnev probleem on üldse lahendamist väärt. See ei ole keeruline. Sul on vaja oma sihtgrupp üles otsida ja neilt küsida kuidas nad _praegu_ seda probleemi lahendavad. Kas turul on tühja ruumi? Kuid see ei ole ka lihtne, sest inimesed on siirad (kuni sa oma ideest pole rääkinud) ja nad võtavad sul roosad prillid eest.
 
-Näiteks tuli sõpradega mõte, et oleks vaja ehitaja (või sarnase teenuse) koju tellimise äppi. Läksime siis (otseses mõttes) tänavale ja hakkasime küsima kuidas inimesed praegu ehitajat leiavad. Sisuliselt oli kolm varianti: perekonnas on ehitaja, küsitakse tuttavalt või ehitab ise. Teise variandi juures on ruumi innovatsiooniks küll, aga invtervjuude ajal märkasime, et mitte üks inimene ei tunnistanud tegevust keeruliseks. Ehk meie vinge "miks juba olemas ei ole" äpp selgus kasutuks. Valideerimine võttis meilt ühe päeva (erinevalt mu eelnevatest seiklustest).
+Näiteks tuli sõpradega mõte, et oleks vaja ehitaja (või sarnase teenuse) koju tellimise äppi. Läksime siis (otseses mõttes) tänavale ja hakkasime küsima kuidas inimesed praegu ehitajat leiavad. Sisuliselt oli kolm varianti: perekonnas on ehitaja, küsitakse tuttavalt või ehitab ise. Teise variandi juures on ruumi innovatsiooniks küll, aga invtervjuude ajal märkasime, et mitte üks inimene ei tunnistanud tegevust vaevarikkaks. Ehk meie vinge "miks juba olemas ei ole" äpp selgus kasutuks. Valideerimine võttis meilt ühe päeva (erinevalt mu eelnevatest seiklustest).
 
-Muide testimiseks on su idees olevad oletused. Igas idees on vähemalt 3 oletust. Ma tean, et on raske uskuda, et keegi su äppi ei taha, sest sa ju ise kasutaks ja sõbrad ka kiidavad. Aga kui sa päriselt ettevõtet tahad luua pead oma toodet ja klienti tundma läbi ja lõhki.
+Kui soovid valideerimisega alustada siis sõnasta oma idee konkreetseks ja leia sealt 3 kõige ohtlikumat oletust. Ohtlik tähendab, et kui su oletus ei pea paika, ei pea idee enam vett. Ja lähed inimestega tänavale rääkima. Küsi kindlasti kuidas nad on minevikus käitunud, mitte kuidas nad tulevikus käituksid.
+
+"Millal sa viimasti reisil käisid?" on parem kui "millal sa järgmisele reisile lähed?"  
+"Mitmel reisil oled aasta jooksul käinud?" on täpsem kui "kui tihti sa reisid?"
+
+Ja kindlasti ära maini neile oma ideed. Sa tead väga hästi, et pere on sulle alati toeks, sõbrad tahavad ikka aidata ja võõrad on lihtsalt viisakad. Kui sa tahad päriselt tagasisidet saada, siis võid sa öelda vaid _miks_ sa neid intervjueerid, mitte aga _mille jaoks_.
 
 ### Koodikool on startup
 
-Seekord alustan nii nullist kui võimalik. Mul ei ole ideed, lahendust ega probleemi. Mul on ainuld valdkond: haridus. Et iga eestlane oleks täiskasvanud ikka jõudes võimekas ja teotahet täis.
+Koodikoole on olnud nüüdseks mitmeid, erinevate õppetundidega. Ja nüüd on järgmine iteratsioon.
 
-Ma juba tean, et programmeerimine, kui tööriist, aitab sellega kaasa ja seda tahetakse õppida. Sellega ma juba tegelen. Nüüd tahaks lisaks midagi suures pildis parendada.
+Seekord alustan nii nullist kui võimalik. Mul ei ole ideed, lahendust ega probleemi. Mul on ainult valdkond: haridus. Et iga eestlane oleks täiskasvanud ikka jõudes võimekas ja teotahet täis. Ja mul on oskus: IT ja programmeerimine.
+
+Ma olen programmeerimist piisavalt õpetanud, et aru saada selle vajadusest ja huvist inimestel. See on hea tööriist ja õpetamisega tegelen niikuinii. Nüüd tahaks lisaks midagi suures pildis parendada.
 
 Päris ausalt ma tean täpselt, mis koolides valesti on. Ma ju käisin ühes 12 aastat. Ma sain sealt kaasa depressiooni ja keskmise hinde 3.7. Või vähemalt see on mu emotsionaalne külg rääkimas.
 
-Kogenud ettevõtja hääl minus ütleb, et tegelikult pole mul õrna aimugi mis asjad on nii nagu nad on. Äkki on asjad tegelikult vägagi hästi läbi mõeldud ja ainus asi mis ma teha saaks on õpetajaks minna. Kui see on parim viis kuidas aidata saan, siis lähengi.
+Kogenud ettevõtja hääl minus ütleb, et tegelikult pole mul õrna aimugi miks asjad on nii nagu nad on. Kindlasti on palju vaeva nähtud, et süsteem _niigi_ hästi toimiks. Vahest on kõik juba välja mõeldud ja ainus viis kuidas saan aidata on õpetajaks minna. Siis lähengi!
 
-Selge on aga see, et mul on peas hunnik oletusi. Panin siis nad kirja:
+Selge on aga see, et mul on peas hunnik oletusi haridusmaastiku toimimise kohta. Panin siis nad kirja:
 
 - Õpilased kaotavad motivatsiooni, sest neil ei ole vabadust valida
 	- mida nad õpivad
@@ -76,35 +83,37 @@ On näha, et ma olen oletuste üksipulgi lahti pookimist harjutanud. Paratamatul
 
 ## Mida olen siiani õppinud?
 
-Seeria "3 Küsimust" sai loodud just selleks, et pärida erinevatelt inimestelt nende seisukohtasid. Ma püüan ümber lükata enda oletusi, aga neile ma neid ei maini. Põhiline küsimus on "Mis on haridusmaastikul suurim probleem?" ja "Mis probleemidega sina igapäevaselt tegeled".
+Seeria "3 Küsimust" sai loodud just selleks, et pärida erinevatelt inimestelt nende seisukohtasid. Ma püüan ümber lükata enda oletusi, aga vastajale ma neid ei maini. Põhiline küsimus on "Mis on haridusmaastikul suurim probleem?" ja "Mis probleemidega sina igapäevaselt tegeled".
 
 Siiani olen rääkinud Tagasi Kooli (külalisõpetajaid), Noored Kooli (uusi õpetajaid), Vaikuseminut (klassi emotsionaalne tasakaalustamine). Ülekaalikalt on seisukohad neil gruppidel, et õpetaja on keskne isik kogu süsteemis. Ja igaüks pingutab selle nimel, et just õpetaja kvaliteeti tõsta.
 
 > JAH; Õpetaja on keskne isik haridussüsteemi kvaliteedis.
 
-Kui juba nii paljud inimesed, kes on koolidega pidevalt seotud, arvavad niimodi, siis vale see ei saa olla.
+Kui juba nii paljud inimesed, kes on koolidega pidevalt seotud, arvavad niimodi, siis vale see ei saa olla. Tasub edasi mõelda kahe suunas: kuidas õpetajaid saab aidata ja kas on veel keskseid isikuid.
 
-Vaatasin siis [Radari saadet](), kus Haridusminister Mailis Reps rääkis oma ideedest. Tuleb välja, et riik on liiga innovatiivne paljude koolide ja vanemate jaoks (mitte muidugi õplaste). Ma usun, et me võime Repsi usaldada selles vallas ja oletada, et tema poolt tehakse kõik edasiliikumise nimel.
+Vaatasin siis [Radari saadet](http://localhost:1313/posts/uuenduslikud-koolid-radar/), kus Haridusminister Mailis Reps rääkis oma ideedest. Tuleb välja, et riik on liiga innovatiivne paljude koolide ja vanemate jaoks (mitte muidugi õplaste). Ma usun, et me võime Repsi usaldada selles vallas ja oletada, et tema poolt tehakse kõik edasiliikumise nimel.
 
 > EI; Probleem on riigisüsteemis ja seaduskorralduses, mitte niivõrd koolides.
 
-Mis ei tähenda muidugi, et mingis konkreetsemas osakonnas pole probleem, kuid vähemalt ma tean ka koolidele keskenduda.
+Mis ei tähenda muidugi, et mingis konkreetsemas osakonnas pole probleem, kuid vähemalt ma tean nüüd, et asi ei ole must-valge.
 
-[Koolipsühholoog]() tõi kenasti välja, et ajapuudus on tuleb isiklikest otsustest, mitte ei ole kellelegi peale surutud. Näiteks kas õpetaja hoolib õpiku läbi võtmisest või, et iga õpilane saaks miinimumist aru. Ma ei tea, kas ajapuudus on äkki süüdi ka südametunnistus, aga igatahes on kindel, et ma võin oma oletuse ümber nimetada:
+[Maria Kurisoo](http://koodikool.ee/posts/maria-kurisoo-opilaskeskne/) tõi kenasti välja, et õpetajate ajapuudus on tuleb isiklikest otsustest, mitte ei ole kellelegi peale surutud. Näiteks kas õpetaja hoolib õpiku läbi võtmisest veerandi lõpuks või et iga õpilane saaks miinimumist aru. Väga erinevad lähenemised. Ma ei tea, kas ajapuudus on äkki süüdi ka südametunnistus, aga igatahes on kindel, et ma võin oma oletuse ümber nimetada:
 
 > Õpetaja ei saa teha head tööd, sest ~~tal ei ole piisavalt isiklikku aega~~ ta võtab liiga palju kohustusi.
 
-See on suur edasiminek ja kindlasti ei peatu siin. Nimelt ma ei ole veel õpetajatega rääkinud. Ma kahtlustan, et nad ei nõustu sellise vaatepunktiga. Minu taktikaks on kõiki vastanuid usaldada, seega vastastikused seisukohad on _just_ need õppimise kohad, kus saab päriselt midagi teada. Need on need tühimikud, millest ei taheta rääkida.
+See on suur edasiminek ja kindlasti ei peatu siin. Mis faktorid mõjutavad kohustuse võtmist? Ma ei ole veel õpetajatega rääkinud. Ma kahtlustan, et neil on omad probleemis mis tõttu kohustuste võtmine on vältimatu. Minu taktikaks on kõiki vastanuid usaldada, seega vastastikused seisukohad on _just_ need õppimise kohad, kus saab päriselt midagi teada. Need on need tühimikud, millest ei osata rääkida.
 
-KESSEOLI veenis mind ümber palga teemal. Mitte, et see ei oleks oluline, aga vahest tal on päris tugev konkurent: maine. Kehva mainega ametisse ei leia inimesi tööle. Ma usun, et võime selle oletuse julgelt õigeks tunnistada. Seega, minu algne arusaam oli vale.
+[Ott Oja](http://localhost:1313/posts/ott-oja-opetajate-palgad/) veenis mind ümber palga teemal. Mitte, et see ei oleks oluline, aga vahest tal on päris tugev konkurent: maine. Kehva mainega ametisse ei leia inimesi tööle. Ma usun, et võime selle oletuse julgelt õigeks tunnistada. Seega, minu algne arusaam oli vale.
 
 > EI; Õpetaja palk on kõige suurem määraja õpetajate rohkuses.
 
-Aga see pole ju kogu vastus. Teeme uue hüpoteesi:
+Aga see pole ju kogu vastus. Teeme uue hüpoteesi, et seda edasi uurida:
 
 > Õpetajatöö maine on põhiliseks õpetajate puuduse põhjuseks.
 
 Pane tähele, et ma oleksin võinud ka sõnastada "Õpetajatöö palk ei ole nii tähtis kui maine." See ei tööta, sest fookus on endiselt palgal. Tegelikult on uus mõte "maine" ja see on see mis vajab valideerimist. Seda tuleb tundma õppida. Palga kohta oleme piisavalt kuulnud uudistest. Meie töö on leida lünkasid. Pimenurkasid. Kõige efektiivsemad lahendused on ikka seal, kuhu unustad vaadata.
+
+Viimaseks tooks välja [Koolipsühholoogi](http://localhost:1313/posts/3-kysimust-kristi-feldman-psyhholoog/) seisukoha, et koolides puuduvad vajalikud tugiteenused, et nii õpetajatel kui õpilastel oleks üldse võimalik vaimselt terved ja selged olla selles keerulises keskkonnas. Ma ei oleks ise selle peale üldse tulnudki. Vahest ei ole need süsteemsed vormid niivõrd probleemiks, kui vaimse õpetuse puudus (mitte religioosse õpetuse)?
 
 See blogi on läinud nii pikaks, et jätan lahkamise siinkohal katki. Mingi hetk aga annan kindlasti uue ülevaate. Millised oletused on osutunud tõeseks, millised vääradeks ja milliseid uusi on juurde tulnud.
 
@@ -113,4 +122,3 @@ See blogi on läinud nii pikaks, et jätan lahkamise siinkohal katki. Mingi hetk
 Lihtsalt teadmiseks, et ma usun avatusse ja õpitu jagamisse. See on põnev projekt ja kui soovid sellest osa võid end e-maili nimekirja panna. Jätkan samas vaimus ehk räägin startuppidest, haridusest ja kuidas neid liita. Kunagi on loota ka mingeid lahendusi näha :)
 
 [Krister](http://krister.ee)
-P.S. Kuna kommentaariumi veel ei ole, siis saada mulle kiri: krister.viirsaar@gmail.com - tahan kõigi mõtteid kuulda.
