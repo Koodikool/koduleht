@@ -22,6 +22,11 @@ Kontrolltööd? Kas õpilasi peab sundima või saab paremini?
 Mälu põhine õppimine. Mis on tegelikult tähtis?
 Õppimine on 21 sajandi oskus, koolid tapavad selle soovi ja oskuse.
 
+Kas külalisõppejõud lahendaksid õpilaste motivatsioonipuudust?
+Kas külalisõppejõud lahendaksid õpetajate ajapuudust?
+Kas külalisõpetajad oleksid valmis andma korraga mitu tundi või regulaarselt käima?
+Kas külalisõpetajad on valmis ise koolidega ühendust võtma?
+
 Õpetaja vabadus riigisüsteemis: https://virumaateataja.postimees.ee/768108/eva-samolberg-miks-ma-ei-ole-enam-opetaja
 
 Kellega rääkida
