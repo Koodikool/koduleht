@@ -61,6 +61,7 @@ Võimalikud lahendused
 Kontakttundide marketplace = väiksemad klassid, õpetajatel vabad käed, õpilane valib oma huvi järgi, turg määrab hinna
 Vittra - https://www.youtube.com/watch?v=q5mpeEa_VZo
 Õpilaselt õpilasele marketplace
+Psühholoog chatis
 
 Võimalikud ametid
 =================
