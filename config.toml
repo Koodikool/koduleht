@@ -3,4 +3,4 @@ languageCode = "et"
 title = "Koodikool"
 theme="hugo-theme-cactus-plus"
 [Params]
-bio="Koodikool algas kui vabas vormis programmeerimise õpetus. Lisandunud on vabas vormis Eesti haridusmaastiku uurimine ja võimaluse korral parendamine läbi kaasaegsete IT võimaluste."
+bio="Koodikool on õppimise platvorm. Pakume koolitusi, uurime Eesti haridusmaastikku, ehitame startuppi, loome kommuuni."
