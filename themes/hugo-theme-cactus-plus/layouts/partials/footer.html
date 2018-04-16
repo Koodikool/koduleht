@@ -3,15 +3,61 @@
         {{ partial "social.html" . }}
     {{ end }}
 
-    <form action="https://flowxo.com/hooks/a/mwr9bzvr" class="paper">
-        <h3>Telli uued kirjutised e-mailile!</h3>
-        <p>Koodikool kirjutab haridusest, startuppidest ja programmeerimisest. Siht on Eesti haridusmaastikku parendada kasutades
-            IT lahendusi.</p>
-        <input name="mailinglist" value="blog@kommuun.koodikool.ee" style="display: none;" />
-        <input name="email" type="email" placeholder="sinu@mail.ee" />
-        <input type="submit" />
-    </form>
+	<form action="https://flowxo.com/hooks/a/mwr9bzvr" class="paper" onsubmit="return closeDialog()">
+		<h3>Telli uued kirjutised e-mailile!</h3>
+		<p>Koodikool kirjutab haridusest, startuppidest ja programmeerimisest. Siht on Eesti haridusmaastikku parendada kasutades IT
+			lahendusi.</p>
+		<input name="mailinglist" value="blog@kommuun.koodikool.ee" style="display: none;" />
+		<input name="email" type="email" placeholder="sinu@mail.ee" />
+		<input type="submit" />
+	</form>
+	<div class="float-subscribe">
+		<form action="https://flowxo.com/hooks/a/mwr9bzvr" class="paper float" onsubmit="return closeDialog()">
+			<a class="popup-close" id="close-subscribe">[ei soovi]</a>
+			<h3>Telli uued kirjutised e-mailile!</h3>
+			<p>Koodikool kirjutab haridusest, startuppidest ja programmeerimisest. Siht on Eesti haridusmaastikku parendada kasutades IT
+				lahendusi.</p>
+			<input name="mailinglist" value="blog@kommuun.koodikool.ee" style="display: none;" />
+			<input name="email" type="email" placeholder="sinu@mail.ee" />
+			<input type="submit" />
+		</form>
+	</div>
+	<script>
+		setInterval(function() {
+			if (localStorage.getItem('show-subscribe') === "false") return
+			var box = document.querySelector('.float-subscribe')
+			var currentScroll = window.scrollY
+			var footerTop = document.querySelector('#footer').offsetTop
+			var windowHeight = window.innerHeight
+			var footerInView = footerTop - windowHeight * 1.5 - currentScroll < 0
+			var lowEnough = currentScroll > 1000
+			if (!footerInView && lowEnough)
+				box.style.bottom =  "-20px"
+			else
+				box.style.bottom =  "-250px"
+
+		}, 1000)
+		document.querySelector('a#close-subscribe').onclick = closeDialog
+		function closeDialog() {
+			localStorage.setItem('show-subscribe', false)
+			var box = document.querySelector('.float-subscribe')
+			box.style.bottom = "-250px"
+		}
+	</script>
     <style>
+		.popup-close {
+			float: right;
+			cursor: pointer;
+		}
+		.float-subscribe {
+			position: fixed;
+			bottom: -250px;
+			max-width: 630px;
+			transition: bottom 1s ease-in-out;
+		}
+		.float-subscribe .paper {
+			border: 5px solid rgb(86, 148, 241);
+		}
         .paper {
 	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 20px 90px rgba(250, 250, 150, 0.1);
 	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 20px 90px rgba(250, 250, 150, 0.1);
