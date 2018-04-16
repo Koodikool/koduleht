@@ -1,22 +1,21 @@
 ---
 title: "Koodikool on Startup"
-date: 2018-03-30T19:45:42+02:00
-draft: true
+date: 2018-04-16T16:01:42+02:00
 ---
 
 ### Misasi on startup
 
-Kõik on selle sõna kohta mingi kujutluspildi endale loonud. Tavainimestega suheldes on tihti selgunud, et "Startup" on suured IT firmad, kellel on lahedad kontorid, aga "mind see teema ei huvita". Mul on kohe väga kurb, kui keegi nii ütleb, sest startup minujaoks on mõtteviis vägagi praktilise otstarbega meiesugustele väikeettevõtjatele.
+Kõik on sõnaga "Startup" mingi kujutluspildi endale loonud. Tavainimestega suheldes on tihti selgunud, et "Startup" on suured IT firmad, kellel on lahedad kontorid, aga "mida nad seal teevad mind ei huvita". Mul on kohe väga kurb, kui keegi nii ütleb, sest startup minujaoks on mõtteviis vägagi praktilise otstarbega meiesugustele väikeettevõtjatele.
 
-Kui traditsiooniliselt oli ettevõtte loomisel juba vaja viie nulliga kapitali, siis startupid on need, kes alustavad nulliga. Küsimus ei ole enam kuidas tuhandete klientideni jõuda vaid kuidas teha esimene müük ja sealt edasi kasvada kümne müügini. Siis sajani, tuhandeni, jne. Tavapärane ettevõtja näeb võimalust ja ehitab lahenduse. Kui tal joppab saab ta rikkaks ja me kõik imetleme teda. Kui õnn aga ei naerata läheb ta põhja ja me ei saagi teada, et tegelikult 90% või rohkem ettevõtteid kukuvad läbi. Startupid on aga need, kes ehitavad metoodika kasvamiseks katsetades tuhandeid ideid ja nüansse.
+Kui traditsiooniliselt oli ettevõtte loomisel vaja viie nulliga kapitali, siis startupid on need, kes alustavad ühe nulliga. Küsimus ei ole enam kuidas tuhandete klientideni jõuda vaid kuidas teha esimene müük ja sealt edasi kasvada kümne müügini. Siis sajani, tuhandeni, jne. Tavapärane ettevõtja näeb võimalust ja ehitab lahenduse. Kui tal joppab saab ta rikkaks ja me kõik imetleme teda. Kui õnn aga ei naerata läheb ta põhja ja me ei saagi teada, et tegelikult 90% ettevõtetest kukuvad läbi. Startupid on aga need, kes ehitavad metoodika kasvamiseks katsetades tuhandeid ideid ja nüansse.
 
-Ma olen oma kümme startuppi vast ära proovinud. Mõni suurem, mõni väiksem. Iga korraga mida õppinud. Raamatutest lisaks lugedes jõudsin ma järeldusele, et on üks väga konkreetne tegevus, millest ma olen [alati hirmuga üle hüpanud](best-project-shutting-down): probleemi valideerimine.
+Ma olen vast oma kümme startuppi ära proovinud. Mõni suurem, mõni väiksem. Iga korraga mida õppinud. Raamatutest lisaks lugedes jõudsin ma järeldusele, et on üks väga konkreetne tegevus, millest ma olen [alati hirmuga üle hüpanud](https://code.krister.ee/mybest-project-so-far-shutting-it-down/): probleemi valideerimine.
 
-Ma ei ole võtnud seda aega, et välja uurida, kas mu idees seisnev probleem on üldse lahendamist väärt. See ei ole keeruline. Sul on vaja oma sihtgrupp üles otsida ja neilt küsida kuidas nad _praegu_ seda probleemi lahendavad. Kas turul on tühja ruumi? Kuid see ei ole ka lihtne, sest inimesed on siirad (kuni sa oma ideest pole rääkinud) ja nad võtavad sul roosad prillid eest.
+Ma ei ole võtnud seda aega, et välja uurida, kas mu idees seisnev probleem on üldse lahendamist väärt. See ei ole keeruline. Sul on vaja oma sihtgrupp üles otsida ja neilt küsida kuidas nad _praegu_ seda probleemi lahendavad. Kas turul on tühja ruumi? Kuid see ei ole ka lihtne, sest inimesed on siirad (kuni sa oma ideest pole rääkinud) ja nad võtavad sul jõuga roosad prillid eest.
 
-Näiteks tuli sõpradega mõte, et oleks vaja ehitaja (või sarnase teenuse) koju tellimise äppi. Läksime siis (otseses mõttes) tänavale ja hakkasime küsima kuidas inimesed praegu ehitajat leiavad. Sisuliselt oli kolm varianti: perekonnas on ehitaja, küsitakse tuttavalt või ehitab ise. Teise variandi juures on ruumi innovatsiooniks küll, aga invtervjuude ajal märkasime, et mitte üks inimene ei tunnistanud tegevust vaevarikkaks. Ehk meie vinge "miks juba olemas ei ole" äpp selgus kasutuks. Valideerimine võttis meilt ühe päeva (erinevalt mu eelnevatest seiklustest).
+Näiteks tuli sõpradega mõte, et oleks vaja ehitaja (või sarnase teenuse) koju tellimise äppi. Läksime siis (otseses mõttes) tänavale ja hakkasime küsima kuidas inimesed praegu ehitajat leiavad. Sisuliselt oli kolm varianti: perekonnas on ehitaja, küsitakse tuttavalt või ehitab ise. Teise variandi juures on ruumi innovatsiooniks küll, aga intervjuude ajal märkasime, et mitte üks inimene ei tunnistanud tegevust vaevarikkaks. Ehk meie vinge "miks juba olemas ei ole" äpp selgus kasutuks. Valideerimine võttis meilt ühe päeva (erinevalt mu eelnevatest seiklustest).
 
-Kui soovid valideerimisega alustada siis sõnasta oma idee konkreetseks ja leia sealt 3 kõige ohtlikumat oletust. Ohtlik tähendab, et kui su oletus ei pea paika, ei pea idee enam vett. Ja lähed inimestega tänavale rääkima. Küsi kindlasti kuidas nad on minevikus käitunud, mitte kuidas nad tulevikus käituksid.
+Kui soovid valideerimisega alustada siis sõnasta oma idee konkreetseks ja leia sealt 3 kõige ohtlikumat oletust. Ohtlik tähendab, et kui su oletus ei pea paika, siis idee kukub läbi. Ja lähed inimestega tänavale rääkima. Küsi kindlasti kuidas nad on minevikus käitunud, mitte kuidas nad tulevikus käituksid.
 
 "Millal sa viimasti reisil käisid?" on parem kui "millal sa järgmisele reisile lähed?"  
 "Mitmel reisil oled aasta jooksul käinud?" on täpsem kui "kui tihti sa reisid?"
@@ -31,9 +30,7 @@ Seekord alustan nii nullist kui võimalik. Mul ei ole ideed, lahendust ega probl
 
 Ma olen programmeerimist piisavalt õpetanud, et aru saada selle vajadusest ja huvist inimestel. See on hea tööriist ja õpetamisega tegelen niikuinii. Nüüd tahaks lisaks midagi suures pildis parendada.
 
-Päris ausalt ma tean täpselt, mis koolides valesti on. Ma ju käisin ühes 12 aastat. Ma sain sealt kaasa depressiooni ja keskmise hinde 3.7. Või vähemalt see on mu emotsionaalne külg rääkimas.
-
-Kogenud ettevõtja hääl minus ütleb, et tegelikult pole mul õrna aimugi miks asjad on nii nagu nad on. Kindlasti on palju vaeva nähtud, et süsteem _niigi_ hästi toimiks. Vahest on kõik juba välja mõeldud ja ainus viis kuidas saan aidata on õpetajaks minna. Siis lähengi!
+Päris ausalt ma tean täpselt, mis koolides valesti on. Ma ju käisin ühes 12 aastat. Ma sain sealt kaasa depressiooni ja keskmise hinde 3.7. Või vähemalt see on mu emotsionaalne külg rääkimas. Kogenud ettevõtja hääl minus ütleb, et tegelikult pole mul õrna aimugi miks asjad on nii nagu nad on. Kindlasti on palju vaeva nähtud, et süsteem _niigi_ hästi toimiks. Vahest on kõik juba välja mõeldud ja ainus viis kuidas saan aidata on õpetajaks minna. Siis lähengi!
 
 Selge on aga see, et mul on peas hunnik oletusi haridusmaastiku toimimise kohta. Panin siis nad kirja:
 
@@ -65,7 +62,7 @@ Selge on aga see, et mul on peas hunnik oletusi haridusmaastiku toimimise kohta.
 	- Õpe (ja kontrolltööd) on mälupõhine. Loogikat ja mõistmist on väga vähe.
 	- Õpilase töö on õige vastuse teadmine, mitte aga probleemi analüüsimine ja lahendamine (nagu täiskasvanul)
 	- Õppetöö vahendid on üleelmises sajandis. Arvutid peaksid olema igas tunnis kasutusel.
-	- Iseseisvalt õppimine on täismasvanu esmane edasiviiv oskus. Kes ei õpi, ei arene. Koolid tapavad selle huvi ja naturaalse oskuse.
+	- Iseseisvalt õppimine on täiskasvanu esmane edasiviiv oskus. Kes ei õpi, ei arene. Koolid tapavad selle huvi ja naturaalse oskuse.
 - Probleem on riigisüsteemis ja seaduskorralduses, mitte niivõrd koolides.
 	- Riigikoolidel ei ole vabadust olla innovatiivne.
 	- Riik määrab _mida_ õppida tuleb ja kuidas.
