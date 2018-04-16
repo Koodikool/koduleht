@@ -66,7 +66,7 @@ Tänane infosüsteem on sisuliselt tabel kontaktidest. Kui õpetaja otsib külal
 
 ---
 
-Vot selline intervjuu tuli. Ma ei ole kindel kas mul jäi küsimusi vähemalt või on neid nüüd rohkem kui enne.
+Vot selline intervjuu tuli. Ma ei ole kindel kas mul jäi küsimusi vähemaks või on neid nüüd rohkem kui enne.
 
 See viimane infotükk on mulle muidugi eriti huvitav, sest ma sobiksin sinna ideaalselt (enda arvates). Peale selle, et olen täiesti võimeline ise sellist süsteemi ehitama on mul päris hea arusaam kuidas üldse läheneda analüüsile võimalikult efektiivse lahenduse loomiseks.
 
