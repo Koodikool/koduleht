@@ -46,6 +46,8 @@ Haridusministeeriumis töötajad
 Haridustehnoloogid
 Ülikoolidest pedagoogid
 FoxCademy
+Avita
+Muud õppematerjalide loojad
 
 Avatud kool
 emili kool
