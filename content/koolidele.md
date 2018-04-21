@@ -8,6 +8,7 @@ Koodikooli eesmärk on edendada haridust. Esimene võimalus on minnagi koolidess
 
 # Loengud
 
+- [Kuidas IT's karjääri teha?](/koolitunnid/it-karjaar.md)
 - [Kuidas programmeerida oma mängu](/koolitunnid/programmeerida-oma-mangu)
 - [Krüptorahade tähtsus ja tulevik](/koolitunnid/krypto-tahtsus-ja-tulevik)
 - [Privaatsus, turvalisus ja ühiskond](/koolitunnid/privaatsus-turvalisus-ja-yhiskond)
