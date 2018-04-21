@@ -1,5 +1,5 @@
 ---
-title: "Privaatsus, turvalisus ja ühiskond"
+title: "Privaatsus ja turvalisus internetis"
 date: 2018-04-21T13:48:29+03:00
 hidden: true
 ---
