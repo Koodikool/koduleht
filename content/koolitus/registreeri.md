@@ -123,7 +123,7 @@ hidden: true
             <input type="radio" name="pc" value="windows">Tulen Windowsi läpakaga<br>
             <input type="radio" name="pc" value="mac">Tulen Mac OSi läpakaga<br>
             <input type="radio" name="pc" value="linux">Tulen Linuxi läpakaga<br>
-            <input type="radio" name="pc" value="none">Vajan läpakaga<br>
+            <input type="radio" name="pc" value="none">Vajan läpakat<br>
             <br>
             <p class="width">Sõbra e-mail: </p><input name="friend-emails"><p>(saadame talle ka kutse)</p><br>
             <p class="width">Kommentaar:</p><input name="comments">
