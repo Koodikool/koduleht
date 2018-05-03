@@ -6,10 +6,10 @@ hidden: true
 
 <form name="register-training" action="/koolitus/registreeritud" netlify>
     <section>
-        <input type="radio" onchange="handleSelection()" name="buy-type" value="package">Soovin paketi osta<br>
+        <input type="radio" onchange="handleSelection()" name="buy-type" value="package" required>Soovin paketi osta<br>
         <input type="radio" onchange="handleSelection()" name="buy-type" value="days">Soovin ise päevi kombineerida<br>
         <br>
-        <input type="radio" onchange="handleSelection()" name="location" value="tallinn">Tulen Tallinnasse<br>
+        <input type="radio" onchange="handleSelection()" name="location" value="tallinn" required>Tulen Tallinnasse<br>
         <input type="radio" onchange="handleSelection()" name="location" value="tartu">Tulen Tartusse<br>
     </section>
     <div class="selection selection-all">
@@ -20,13 +20,13 @@ hidden: true
                 <p>Pakettide sisu leiad <a target="_blank" href="/koolitused">koolituste pealehelt</a></p>
                 <div class="selection selection-tallinn">
                     <h3>Tallinn</h3>
-                    <input type="radio" onchange="handlePackage()" value="tallinn-package1-6.6" name="package">Pakett 1 - 6.-7. juuni<br>
+                    <input type="radio" onchange="handlePackage()" value="tallinn-package1-6.6" name="package" required>Pakett 1 - 6.-7. juuni<br>
                     <input type="radio" onchange="handlePackage()" value="tallinn-package2-6.6" name="package">Pakett 2 - 6.-8. juuni<br>
                     <input type="radio" onchange="handlePackage()" value="tallinn-package1-6.9" name="package">Pakett 1 - 9.-10. juuni<br>
                 </div>
                 <div class="selection selection-tartu">
                     <h3>Tartu</h3>
-                    <input type="radio" onchange="handlePackage()" value="tartu-package1-6.27" name="package">Pakett 1 - 27.-28. juuni<br>
+                    <input type="radio" onchange="handlePackage()" value="tartu-package1-6.27" name="package" required>Pakett 1 - 27.-28. juuni<br>
                     <input type="radio" onchange="handlePackage()" value="tartu-package2-6.27" name="package">Pakett 2 - 27.-29. juuni<br>
                     <input type="radio" onchange="handlePackage()" value="tartu-package1-7.1" name="package">Pakett 1 - 30. juuni - 1. juuli<br>
                 </div>
@@ -113,14 +113,14 @@ hidden: true
         </section>
         <section>
             <h2>Isiklik info</h2>
-            <p class="width">Nimi:</p><input name="name"><br>
-            <p class="width">E-mail:</p><input name="email" type="email"><br>
+            <p class="width">Nimi:</p><input name="name" required><br>
+            <p class="width">E-mail:</p><input name="email" type="email" required><br>
             <p class="width">Telefon:</p><input name="tel"><p>(viimase hetke teavitused)</p><br>
             <p class="width">Soovitaja nimi:</p><input name="friend"><p>(Sõbra soodustus)</p><br>
         </section>
         <section>
             <h2>Lisainfo</h2>
-            <input type="radio" name="pc" value="windows">Tulen Windowsi läpakaga<br>
+            <input type="radio" name="pc" value="windows" required>Tulen Windowsi läpakaga<br>
             <input type="radio" name="pc" value="mac">Tulen Mac OSi läpakaga<br>
             <input type="radio" name="pc" value="linux">Tulen Linuxi läpakaga<br>
             <input type="radio" name="pc" value="none">Vajan läpakat<br>
