@@ -4,7 +4,7 @@ date: 2018-05-03T12:39:20+03:00
 hidden: true
 ---
 
-<form name="register-training" netlify>
+<form name="register-training" action="/koolitus/registreeritud" netlify>
     <section>
         <input type="radio" onchange="handleSelection()" name="buy-type" value="package">Soovin paketi osta<br>
         <input type="radio" onchange="handleSelection()" name="buy-type" value="days">Soovin ise päevi kombineerida<br>
