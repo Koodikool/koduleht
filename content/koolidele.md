@@ -1,10 +1,10 @@
 ---
-title: "Koolidele"
+title: "Loengud koolidele"
 date: 2018-03-14T17:52:14+01:00
 hidden: true
 ---
 
-Koodikooli eesmärk on edendada haridust. Esimene võimalus on minnagi koolidesse oma tarkust pakkuma läbi loengute. Järgnevad teemad on tasuta tellitavad üle Eesti.
+Koodikooli eesmärk on edendada haridust. Esimene võimalus on minnagi koolidesse oma tarkust pakkuma läbi loengute. Järgnevad teemad on tasuta tellitavad koolidesse üle Eesti.
 
 # Loengud
 

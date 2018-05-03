@@ -4,7 +4,8 @@
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
 	<a href='{{ .Site.BaseURL }}posts'>Postitused</a>
-	<a href='{{ .Site.BaseURL }}koolidele'>Koolidele</a>
+	<a href='{{ .Site.BaseURL }}koolidele'>Loengud</a>
+	<a href='{{ .Site.BaseURL }}koolitused'>Koolitused</a>
 	<a href='{{ .Site.BaseURL }}meeskond'>Meeskond</a>
 
 	{{ range $key, $val := .Site.Params.Links }}
