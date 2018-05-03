@@ -1,7 +1,6 @@
 ---
 title: "Ülikooli Õppejõu Kogemus"
 date: 2018-04-02T12:39:41+02:00
-draft: true
 ---
 
 Mu kolme aastasest IT Kolledžis õpetamise kogemusest on raske avalikult rääkida, sest minu alt käis läbi 300+ tudengit ja kõigil on oma arvamus, oma nägemus sellest mis toimus. Lühidalt kokku võttes oli tegu läbikukkumisega. Ma räägin siis ainest, mitte enda kogemusest.
@@ -10,7 +9,7 @@ Ma ei saa rääkida kõigest mis valesti oli ja mida ma valesti tegin, seda kõi
 
 Järgnevad oletused, millega ma ainet "Programmeerimine algajatele" IT Kolledžis alustasin. Need siis kas osutusid tõeseks või vääraks.
 
-## 1. Kõige olulisem õppijale on mentori olemasolek.
+## 1. Kõige olulisem õppijale on mentori olemasolu.
 
 Ma olen iseõppinud programmeerija. See oli üli raske. Kohe nii raske, et üks hetk ma otsustasin kõik maha jätta, minust lihtsalt ei olnud programmeerijat. Ometi olin kuue kuu pärast tagasi ja tegin omad järeldused. Nimelt, kuigi internet on materjale täis on mentor asendamatu. Lihtsalt keegi, kellelt lolle küsimusi küsida. Keegi, kes aitaks edasi, kui oled juba teist päeva sama probleemi otsas ja kõik motivatsioon asjaga tegeleda pigistatakse sinust välja.
 
@@ -24,7 +23,7 @@ Ma nägin ekstra vaeva, et eriti vinged materjalid luua ja neid tõepoolest kiid
 
 Mis puudu jäi oli samm-sammult õpetused. Toetudes eelmisele punktile, tudengid olid harjunud õpetusi läbima, mitte kasutusjuhendiga hakkama saama. Ma saan täitsa aru, et IKEA mööblit tellides tahad sa peale tööriistade kasutusjuhendi ka 1-2-3 kuidas kapp kokku panna.
 
-Ma oleksin kindlasti jõudnud neljandaks aastaks korraliku 1-2-3 õpetuste jada teha, aga selleks ajaks oli selge, et saadud rahastus jääb ainukeseks ja kuigi maksti hästi, siis pool aastat materjalide tootmist ei kata see küll ühegist otsast.
+Ma oleksin kindlasti jõudnud neljandaks aastaks korraliku 1-2-3 õpetuste jada teha, aga selleks ajaks oli selge, et saadud rahastus jääb ainukeseks ja kuigi maksti hästi, siis pool aastat materjalide tootmist ei kata see küll kuskilt otsast.
 
 ## 3. Ideaalne kursus on maksimaalselt vabadust ja võimalus oma moodi õppida.
 
