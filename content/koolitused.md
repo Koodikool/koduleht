@@ -31,9 +31,9 @@ Igal paketil on oma hind, kuid kombineerida võib päevasid vastavalt vajadusele
 
 - Esimene päev: 100€
 - Teine päev: 70€
-- Kolmas, neljas ja viies päev igaüks: 40€
+- Kolmas, neljas ja viies päev igaüks: 50€
 
-Näide 1: Võttes kõik kolm päeva, maksad 100+70+40 ehk 210€.  
+Näide 1: Võttes kõik kolm päeva, maksad 100+70+50 ehk 220€.  
 Näide 2: Võttes teise ja kolmanda päeva, maksad 100+70 ehk 170€.  
 Näide 3: Võttes ainult kolmanda päeva, maksad 100€.  
 

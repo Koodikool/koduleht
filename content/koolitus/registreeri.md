@@ -89,8 +89,8 @@ hidden: true
                     for (var i = 0; i < countDays; i++) {
                         price += step
                         step -= 30
-                        if (step < 40)
-                            step = 40
+                        if (step < 50)
+                            step = 50
                     }
                     setPrice(price)
                 }
@@ -99,7 +99,7 @@ hidden: true
                     if (packageElement.includes('package1'))
                         setPrice(170)
                     else if (packageElement.includes('package2'))
-                        setPrice(210)
+                        setPrice(220)
                 }
                 function setPrice(price) {
                     document.querySelector('#price').innerHTML = "Kursuse hind kokku: " + price + "€"
