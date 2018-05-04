@@ -30,7 +30,7 @@ Koodikool pakub tervikpaketti veebiarendusega alustamiseks. Tegu on intensiivkoo
 Igal paketil on oma hind, kuid kombineerida võib päevasid vastavalt vajadusele. Valikute tegemisel veendu eeldatavate oskuste olemasolust. Hind moodustub osalemise päevade arvule.
 
 - Esimene päev: 100€
-- Teine päeva: 70€
+- Teine päev: 70€
 - Kolmas, neljas ja viies päev igaüks: 40€
 
 Näide 1: Võttes kõik kolm päeva, maksad 100+70+40 ehk 210€.  
