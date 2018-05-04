@@ -1,6 +1,6 @@
 ---
 title: "Ülikooli Õppejõu Kogemus"
-date: 2018-04-02T12:39:41+02:00
+date: 2018-05-02T12:39:41+02:00
 ---
 
 Mu kolme aastasest IT Kolledžis õpetamise kogemusest on raske avalikult rääkida, sest minu alt käis läbi 300+ tudengit ja kõigil on oma arvamus, oma nägemus sellest mis toimus. Lühidalt kokku võttes oli tegu läbikukkumisega. Ma räägin siis ainest, mitte enda kogemusest.
