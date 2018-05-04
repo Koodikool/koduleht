@@ -37,6 +37,8 @@ Näide 1: Võttes kõik kolm päeva, maksad 100+70+50 ehk 220€.
 Näide 2: Võttes teise ja kolmanda päeva, maksad 100+70 ehk 170€.  
 Näide 3: Võttes ainult kolmanda päeva, maksad 100€.  
 
+[Registreerimise vorm](/koolitus/registreeri) ütleb hinna automaatselt.
+
 **Raha tagasi garantii**. Kuna Koodikooli eesmärk on pakkuda võimalikult head kursust, siis oleme pärast kursust valmis 100% tasust tagasi maksma pärast kursust, kui osaleja rahul ei ole. Tagasimakse tingimusteks on füüsiline osavõtt (osaleja oli kohal) ja seletuskiri rahulolematuse põhjendamiseks.
 
 **Registreerimise tühistamisel** saab osaleja raha tagasi 100% ulatuses 5 päeva enne kursuse algust või 50% ulatuses, kui tühistamine toimub vähem kui 5 päeva enne kursuse algust.
