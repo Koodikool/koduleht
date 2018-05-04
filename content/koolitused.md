@@ -39,11 +39,11 @@ Näide 3: Võttes ainult kolmanda päeva, maksad 100€.
 
 [Registreerimise vorm](/koolitus/registreeri) ütleb hinna automaatselt.
 
+**Soovita sõbrale ja saate mõlemad 50€ allahindlust**. Nimelt, kui sõber ka kursusele tuleb, saate mõlemad allahindlust (mitu sõpra = mitu soodustust). Sellist megasoodustust näed tõenäoliselt ainult praegu, sest Koodikool on oma kursusi alles alustamas ja sõna vajab levitamist!
+
 **Raha tagasi garantii**. Kuna Koodikooli eesmärk on pakkuda võimalikult head kursust, siis oleme pärast kursust valmis 100% tasust tagasi maksma pärast kursust, kui osaleja rahul ei ole. Tagasimakse tingimusteks on füüsiline osavõtt (osaleja oli kohal) ja seletuskiri rahulolematuse põhjendamiseks.
 
 **Registreerimise tühistamisel** saab osaleja raha tagasi 100% ulatuses 5 päeva enne kursuse algust või 50% ulatuses, kui tühistamine toimub vähem kui 5 päeva enne kursuse algust.
-
-**Soovita sõbrale ja saate mõlemad 50€ allahindlust**. Nimelt, kui sõber ka kursusele tuleb, saate mõlemad allahindlust (mitu sõpra = mitu soodustust). Sellist megasoodustust näed tõenäoliselt ainult praegu, sest Koodikool on oma kursusi alles alustamas ja sõna vajab levitamist!
 
 <a href="/koolitus/registreeri" class="button">Registreeri koolitusele</a>
 
