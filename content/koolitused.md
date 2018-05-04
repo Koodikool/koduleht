@@ -10,20 +10,20 @@ Koodikool pakub tervikpaketti veebiarendusega alustamiseks. Tegu on intensiivkoo
 
 - **Pakett 1: Frontend programmeerimine disainerile**
     - Hind: 170€
-    - Teemad: Päev 1 ja 2
+    - Teemad: Päev 1 ja 2 (vt. "Päevade valikud")
 - **Pakett 2: Programmeerimise algkursus**
-    - Hind: 210€
-    - Teemad: Kõik 3 päeva
+    - Hind: 220€
+    - Teemad: Kõik 3 päeva (vt. "Päevade valikud")
 
 <a href="/koolitus/registreeri" class="button">Registreeri koolitusele</a>
 
-# Päevad
+# Päevade valikud
 
 - Päev 1 - [Veebi programmeerimine "nullist"](/koolitus/paev1)
 - Päev 2 - [kujundusest CSS koodini](/koolitus/paev2)
 - Päev 3 - [JavaScriptiga programmeerimine](/koolitus/paev3)
-- Päev 4 - Serveri kirjutamine ja internetti saamine (tulevikus)
-- Päev 5 - Plokiahela ja krüptoraha tehnoloogia tööpõhimõtted (tulevikus)
+- _Päev 4 - Serveri kirjutamine ja internetti saamine (tulevikus)_
+- _Päev 5 - Plokiahela ja krüptoraha tehnoloogia tööpõhimõtted (tulevikus)_
 
 # Päevade hinnad
 
@@ -43,13 +43,13 @@ Näide 3: Võttes ainult kolmanda päeva, maksad 100€.
 
 **Registreerimise tühistamisel** saab osaleja raha tagasi 100% ulatuses 5 päeva enne kursuse algust või 50% ulatuses, kui tühistamine toimub vähem kui 5 päeva enne kursuse algust.
 
-**Soovita sõbrale ja saate mõlemad 50€ allahindlust**. Nimelt, kui sõber ka kursusele tuleb, saate mõlemad allahindlust (kasvõi mitu korda). Sellist megasoodustust näed tõenäoliselt ainult praegu, sest Koodikool on oma kursusi alles alustamas ja sõna vajab levitamist!
+**Soovita sõbrale ja saate mõlemad 50€ allahindlust**. Nimelt, kui sõber ka kursusele tuleb, saate mõlemad allahindlust (mitu sõpra = mitu soodustust). Sellist megasoodustust näed tõenäoliselt ainult praegu, sest Koodikool on oma kursusi alles alustamas ja sõna vajab levitamist!
 
 <a href="/koolitus/registreeri" class="button">Registreeri koolitusele</a>
 
 # Koolitaja
 
-[Krister Viirsaar](http://krister.ee) alustas programmeerimise õppimisega aastal 2012 ja sai tunda seda õppimise valu, millest iga programmeerija peab läbi minema. Erinevalt ametlikust haridusest ei olnud tal mentorit ja pidi eriti palju vaeva nägema asjade selgeks tegemisel. Õppimine kujunes nii keeruliseks, et vahepeal tuli kuueks kuuks asi maha jätta, programmeerimine tundus olevat igati üle jõu. Pärast pausi sai aga uuesti proovitud ja sealt sujus asi kiiremini. Oleks vaid olnud kedagi, kes oskab lihtsate sõnade õigel ajal õiget asja seletada.
+[Krister Viirsaar](http://krister.ee) alustas programmeerimise õppimisega aastal 2012 ja sai tunda seda õppimise valu, millest iga programmeerija peab läbi minema - esialgu on see nagu pimedas toas võtmete otsimine. Erinevalt ametlikust haridusest ei olnud tal mentorit. Seetõttu pidi ta eriti palju vaeva nägema asjade selgeks tegemisel. Õppimine kujunes nii keeruliseks, et vahepeal tuli kuueks kuuks asi maha jätta, programmeerimine tundus olevat igati üle jõu. Pärast pausi sai aga uuesti proovitud uute põhimõtetega ja sealt sujus asi kiiremini. Näiteks õpetuste uurimise asemel sai alustatud projektiga. Oleks vaid olnud kedagi, kes oleks esmase sissejuhatusega kaasa andnud suurema pildi.
 
 Mõnede aastate pärast oli võimalus IT Kolledžis algajatele programmeerimist õpetada. Kuigi sajale inimesele korraga ainet anda on eriti keeruline (eriti kaugõppes), siis jällegi sai palju teada ja seda enam tekkis soov leida parim viis sellise keerulise teema selgeks tegemisel. Avastasin, et olen õpetaja hingega. Küll mitte kontrolltööde tegija.
 
