@@ -19,6 +19,7 @@ hidden: true
 
 - Aru saada kuidas info serveri ja kasutaja arvuti vahel liigub.
 - Kirjutada veebi kolme keelt: HTML, CSS ja JavaScript algtasemel.
+- Kasutada Web Components standardit valmis elementide alla laadimiseks.
 - Kõige tähtsamaid programmeerimise vahendeid kasutada nagu valiklaused ja tsüklid.
 
 <a href="/koolitus/registreeri" class="button">Registreeri koolitusele</a>
