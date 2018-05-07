@@ -1,4 +1,9 @@
 
+/*  ELEMENTS  */
+.hidden {
+    display: none;
+}
+
 /*  FORMS  */
 form section p, form section input {
     display: inline-block;
