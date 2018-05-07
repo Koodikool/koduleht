@@ -19,7 +19,6 @@ hidden: true
 
 - Aru saada kuidas info serveri ja kasutaja arvuti vahel liigub.
 - Kirjutada veebi kolme keelt: HTML, CSS ja JavaScript algtasemel.
-- Kujunduse koodiks kirjutada algtasemel.
 - Kõige tähtsamaid programmeerimise vahendeid kasutada nagu valiklaused ja tsüklid.
 
 <a href="/koolitus/registreeri" class="button">Registreeri koolitusele</a>

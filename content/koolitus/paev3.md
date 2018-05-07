@@ -8,25 +8,28 @@ Siiani oleme JavaScripti vaid puudutanud. Nüüd saame päriselt tunda, mida tä
 
 **Vastab küsimustele**
 
+- Milleks on JavaScript kasulik?
+- Milleks on JavaScript võimeline?
+- Kuidas HTML/CSS Javascriptiga muuta?
 - Kuidas veebilehel asjad kasutajale reageerivaks teha?
 - Kuidas veebirakendust kirjutada?
-- Kuidas serverisse päringuid tehakse ja seda infot töödeldakse?
-- Kuidas Chrome konsooli kasutada?
-- Kuidas programmi töö läbi mõelda?
+- Kuidas käib kasutaja ja serveri vaheline suhtlus?
+- Kuidas programmi töö eelnevalt läbi mõelda?
 - Mis on muutuja ja funktsioon?
-- kuidas HTML/CSS muuta?
 - Kuidas takistustest üle saada?
 - Kust abi leida probleemide korral?
 
 **Päeva läbinu oskab**
 
 - JavaScripti abil veebilehte dünaamiliseks teha.
-- Internetist päringuid teha API kaudu.
+- Teha internetist päringuid teha serveri API kaudu.
 - Päringust saadud infot töödelda endale sobivaks.
 - HTMLi muuta, et kasutaja näeks saadud infot.
 - Erroreid analüüsida ja parandada.
-- Interneti abiga iseseisvalt edasi tegutseda.
+- Chrome konsooli kasutada.
+- Luua töötava chat programmi.
 - Kasutaja arvutisse infot salvestada.
+- Interneti abiga iseseisvalt oma projektiga tegeleda.
 
 **Eeldused päeval osalemiseks**
 

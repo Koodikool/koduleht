@@ -9,20 +9,22 @@ Süveneme kujunduse implementeerimisse koodis. Siin õpid orienteeruma CSS keele
 **Vastab küsimustele**
 
 - Kuidas kirjutada kujundust koodis?
-- Millest alustada ja kust infot leida?
+- Mis järjekorras leht ehitatakse?
 - Mida on veebikujunduses lihtne teostada, mida keeruline ja mis on võimatu?
 - Mida vajab programmeerija kujundajalt, et tema töö lihtne oleks?
 - Mis on tänapäevased funktsionaalsused ja mida peaks teadma vanemate seadmete jaoks?
 - Kuidas panna küljendus kohanduma erinevate ekraanisuurustega?
+- Mis valmis lahendused teevad meie elu lihtsamaks?
 
 **Päeva läbinu oskab**
 
-- Kirjutada kujundusest (pildi formaadis) CSS kood.
+- Võtta kujundus (näiteks .jpg) ja kirjutada vastav CSS kood.
 - Küljendada sisu, mis kohandub mobiilist kino ekraanini.
 - Paigutada ja kujundada individuaalseid elemente.
 - Kasutada ka ebatavalisemaid fonte.
 - Kirjutada loetavat koodi ja nimetada klasse.
 - Teostada lihtsamaid animatsioone.
+- Kasutada raamistikke, mis kiirendavad lehe ehitamist oluliselt.
 
 **Eeldused päeval osalemiseks**
 
