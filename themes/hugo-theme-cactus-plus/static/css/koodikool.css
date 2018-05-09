@@ -46,6 +46,12 @@ a.button {
     padding: 16px;
     margin: 1em 0;
 }
+.input-text {
+    border: 0;
+    background: transparent;
+    font-size: 1.1em;
+    color: #333;
+}
 
 /*  SUBSCRIPTION BOX  */
 @media only screen and (max-device-width: 767px) {

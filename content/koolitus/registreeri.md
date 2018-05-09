@@ -54,8 +54,7 @@ hidden: true
                 </div>
             </div>
             <br>
-            <h3 id="price"></h3>
-            <input id="price-input" name="user-price" value="0" class="hidden">
+            <h3>Kursuse hind kokku: <input id="price-input" name="user-price" value="0" class="input-text" disabled></h3>
             <script>
                 function handleSelection() {
                     const buyTypeRadio = document.querySelector('input[name=buy-type]:checked')
@@ -103,8 +102,7 @@ hidden: true
                         setPrice(220)
                 }
                 function setPrice(price) {
-                    document.querySelector('#price').innerHTML = "Kursuse hind kokku: " + price + "€"
-                    document.querySelector('#price-input').value = price
+                    document.querySelector('#price-input').value = price + "€"
                 }
             </script>
             <style>
