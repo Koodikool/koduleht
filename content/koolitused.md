@@ -6,6 +6,8 @@ hidden: true
 
 Koodikool pakub tervikpaketti veebiarendusega alustamiseks. Tegu on intensiivkoolitusega, kus päev kestab 8 tundi (pausidega) ja osa saab võtta erinevatest päevadest ka valikuliselt.
 
+<p class="paper notice">NB! Käesolev soodne hinnapakkumine kehtib kuni 18. mai ja registreerimine on avatud kuni 25. mai.</p>
+
 # Paketid
 
 - **Pakett 1: Frontend programmeerimine disainerile**
