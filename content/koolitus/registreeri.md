@@ -87,21 +87,21 @@ hidden: true
                         countDays++
                     })
                     var price = 0
-                    var step = 100
+                    var step = 120
                     for (var i = 0; i < countDays; i++) {
                         price += step
                         step -= 30
-                        if (step < 50)
-                            step = 50
+                        if (step < 70)
+                            step = 70
                     }
                     setPrice(price)
                 }
                 function handlePackage() {
                     var packageElement = document.querySelector('input[name=package]:checked').value
                     if (packageElement.includes('package1'))
-                        setPrice(170)
+                        setPrice(210)
                     else if (packageElement.includes('package2'))
-                        setPrice(220)
+                        setPrice(270)
                 }
                 function setPrice(price) {
                     document.querySelector('#price-input').value = price + "€"
