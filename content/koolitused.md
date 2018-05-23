@@ -4,9 +4,12 @@ date: 2018-05-03T12:39:20+03:00
 hidden: true
 ---
 
-Koodikool pakub tervikpaketti veebiarendusega alustamiseks. Tegu on intensiivkoolitusega, kus päev kestab 8 tundi (pausidega) ja osa saab võtta erinevatest päevadest ka valikuliselt.
 
-<p class="paper notice">NB! Käesolev soodne hinnapakkumine kehtib kuni 18. mai ja registreerimine on avatud kuni 25. mai.</p>
+Koolitused on startupilikult ebaõnnestunud. Lähem seletus saabub hiljem. Kui olen asja rohkem seedinud. Järgneb aga vana ja kehtetu tekst.
+
+<p class="paper notice">Koolitused on tühistatud. Järgnev on arhiivitud tekst.</p>
+
+Koodikool pakub tervikpaketti veebiarendusega alustamiseks. Tegu on intensiivkoolitusega, kus päev kestab 8 tundi (pausidega) ja osa saab võtta erinevatest päevadest ka valikuliselt.
 
 # Paketid
 

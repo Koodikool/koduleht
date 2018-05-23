@@ -4,7 +4,7 @@ date: 2018-05-03T12:39:20+03:00
 hidden: true
 ---
 
-<p class="paper notice">NB! Käesolev soodne hinnapakkumine kehtib kuni 18. mai ja registreerimine on avatud kuni 25. mai.</p>
+<p class="paper notice">Koolitused on tühistatud. Järgnev on arhiivitud tekst.</p>
 
 <form name="register-training" action="/koolitus/registreeritud" netlify>
     <section>
