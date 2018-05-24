@@ -4,7 +4,7 @@ date: 2018-05-03T12:39:20+03:00
 hidden: true
 ---
 
-<p class="paper notice">Koolitused on tühistatud. Järgnev on arhiivitud tekst.</p>
+<p class="paper notice">Koolitused on tühistatud. Järgnev on arhiiv.</p>
 
 <form name="register-training" action="/koolitus/registreeritud" netlify>
     <section>

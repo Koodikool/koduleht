@@ -5,9 +5,9 @@ hidden: true
 ---
 
 
-Koolitused on startupilikult ebaõnnestunud. Lähem seletus saabub hiljem. Kui olen asja rohkem seedinud. Järgneb aga vana ja kehtetu tekst.
+Koolitused on startupilikult ebaõnnestunud. Lähem seletus saabub hiljem. Kui olen asja rohkem seedinud.
 
-<p class="paper notice">Koolitused on tühistatud. Järgnev on arhiivitud tekst.</p>
+<p class="paper notice">Koolitused on tühistatud. Järgnev on arhiiv.</p>
 
 Koodikool pakub tervikpaketti veebiarendusega alustamiseks. Tegu on intensiivkoolitusega, kus päev kestab 8 tundi (pausidega) ja osa saab võtta erinevatest päevadest ka valikuliselt.
 
