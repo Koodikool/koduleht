@@ -1,6 +1,0 @@
-baseURL = "https://koodikool.ee/"
-languageCode = "et"
-title = "Koodikool"
-theme="hugo-theme-cactus-plus"
-[Params]
-bio="Koodikool on õppimise platvorm. Pakume koolitusi, uurime Eesti haridusmaastikku, ehitame startuppi, loome kommuuni."
