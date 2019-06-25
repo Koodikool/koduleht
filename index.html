@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Koodikool</title>
+
+    <script src="lib/analytics.js"></script>
+    <link rel="stylesheet" href="lib/default.css">
+</head>
+<body>
+	<div id="heroimage"></div>
+    <noscript id="markdown-content">
+
+# Koodikool
+
+Tere. Koodikool on hetkel suletud. Kui soovid õppida programmeerima, võid ühendust võtta personaalselt koodikool-web@krister.ee - aitan läbi mõelda, kuidas iseseisva õppimisega edukalt hakkama saada.
+
+Krister
+
+    </noscript>
+    <div id="result"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/7.0.1/markdown-it.min.js"></script>
+    <script type="text/javascript">
+        var div = document.querySelector('#markdown-content');
+        var md = window.markdownit({
+            breaks: true,
+            linkify: true,
+        });
+        var html = md.render(div.textContent);
+        document.querySelector('#result').innerHTML = html;
+    </script>
+</body>
